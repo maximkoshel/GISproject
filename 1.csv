@@ -1,0 +1,103 @@
+﻿GymID,Net,Name,Phone,Address,Mail,PlusCode,GeoX,GeoY,Cost,WorkinghourA,WorkinghourB,WorkinghourC,WorkinghourD,WorkinghourE,WorkinghourF,WorkinghourG,Website
+1,Profit,פרופיט נס ציונה,086628070,רחוב החרש 8,service@profitgym.co.il,3Q4M+FF Tel Aviv-Yafo,31.922438,34.800062,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-17:00,19:30-23:00,https://www.profitgym.co.il/branch/%d7%a0%d7%a1-%d7%a6%d7%99%d7%95%d7%a0%d7%94-%d7%91%d7%a7%d7%a8%d7%95%d7%91/
+2,Profit,פרופיט קריית אתא,046075333,קניון עזריאלי קרית אתא,profit.ata1@gmail.com,R35F+X5 Kiryat Ata,32.803687,35.103437,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-16:00,closed,https://www.profitgym.co.il/branch/%d7%a7%d7%a8%d7%99%d7%99%d7%aa-%d7%90%d7%aa%d7%90-%d7%91%d7%a7%d7%a8%d7%95%d7%91/
+3,Profit,פרופיט אשדוד,089200144,"האורגים 25, אשדוד",Profit55ashdod@gmail.com,RM74+56 Ashdod,31.812937,34.655563,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-17:00,09:00-23:00,https://www.profitgym.co.il/branch/%d7%90%d7%a9%d7%93%d7%95%d7%93/
+4,Profit,פרופיט בית שמש,029995833,"קניון שערי העיר רח' יגאל אלון 6, בית שמש",rotem.profit@gmail.com,QX4Q+85 Bet Shemesh,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-15:00,19:00-23:00,https://www.profitgym.co.il/branch/%d7%91%d7%99%d7%aa-%d7%a9%d7%9e%d7%a9/
+5,Profit,פרופיט חיפה,04-9080430,"מתחם מרכז הקונגרסים ברחוב קדושי יאסי 2, חיפה",profithaifa1@gmail.com,QXR8+G4 Haifa,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-17:00,09:00-18:00,https://www.profitgym.co.il/branch/%d7%97%d7%99%d7%a4%d7%94/
+6,Profit,פרופיט נתניה,09-7723421,"מלון כרמל נתניה, שדרות עובד בן עמי 2",profitnetanya@gmail.com,8R9W+4H Netanya,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-17:00,09:00-18:00,https://www.profitgym.co.il/branch/%d7%a0%d7%aa%d7%a0%d7%99%d7%94/
+7,Profit,פרופיט קריית מוצקין,04-8550553,קריית מוצקין דרך עכו 165,profit.krayot@gmail.com,R3RQ+F2 Kiryat Motzkin,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-17:00,09:00-18:00,https://www.profitgym.co.il/branch/%d7%a7%d7%a8%d7%99%d7%95%d7%aa/
+8,Profit,פרופיט ראשל”צ חולון,03-6057774,ראשל”צ חולון רח' יוסף לישנסקי 22,profitgymr@gmail.com,XQV8+3R Rishon LeTsiyon,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-17:00,09:00-18:00,https://www.profitgym.co.il/branch/%d7%a8%d7%90%d7%a9%d7%9c%d7%a6/
+9,Profit,פרופיט תל אביב,03-5757870,"קרליבך 18, פינת שפרינצק 1", profittlv@gmail.com,3QCJ+8W Tel Aviv-Yafo,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,07:00-18:00,10:00-20:00,https://www.profitgym.co.il/branch/%d7%aa%d7%9c-%d7%90%d7%91%d7%99%d7%91/
+10,Profit,פרופיט כפר סבא,09-745-5909,"דרך השרון 12, כפר סבא",profitkfarsaba@gmail.com,5VFR+FR Kefar Sava,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-17:00,09:00-18:00,https://www.profitgym.co.il/branch/%d7%9b%d7%a4%d7%a8-%d7%a1%d7%91%d7%90/
+11,Profit,פרופיט יקנעם,046439933,קניון G,Profit.yok@gmail.com,M463+3W Yokne'am Illit,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-18:00,10:00-23:00,https://www.profitgym.co.il/branch/%d7%99%d7%a7%d7%a0%d7%a2%d7%9d/
+12,Profit,פרופיט מזכרת בתיה,"08-8600501
+",מזכרת בתיה רח' מנחם בגין 4 מרכז מסחרי הר - סוף,profitmazkeret@gmail.com,VR2R+2C Mazkeret Batya,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-17:00,18:00-22:00,https://www.profitgym.co.il/branch/%d7%9e%d7%96%d7%9b%d7%a8%d7%aa-%d7%91%d7%aa%d7%99%d7%94/
+13,Profit,פרופיט קריית גת,"073-787-1716
+","הרימון 21, קרית גת",service@profitgym.co.il,JQ38+J4 Kiryat Gat,0,0,150,06:00-00:00,06:00-00:00,06:00-00:00,06:00-00:00,06:00-00:00,06:00-17:00,19:00-23:00,https://www.profitgym.co.il/branch/%d7%a7%d7%a8%d7%99%d7%99%d7%aa-%d7%92%d7%aa/
+14,Profit,פרופיט ראש העין,03-5338050,"שלום מנצורה 1, מתחם נצבא סנטר החדש",Profitgymrh@gmail.com,4W3V+V2 Rosh Haayin,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-16:30,19:00-23:00,https://www.profitgym.co.il/branch/%d7%a4%d7%a8%d7%95%d7%a4%d7%99%d7%98-%d7%a8%d7%90%d7%a9-%d7%94%d7%a2%d7%99%d7%9f-%d7%91%d7%a7%d7%a8%d7%95%d7%91/
+15,Profit,פרופיט פתח תקווה,03-9649460,"רפאל איתן 5, מרכז ספיר. פתח תקווה",profithamoshavot@gmail.com,4V3J+8V Petah Tikva,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-15:00,18:00-23:00,https://www.profitgym.co.il/branch/%d7%a4%d7%aa%d7%97-%d7%aa%d7%a7%d7%95%d7%95%d7%94-%d7%90%d7%9d-%d7%94%d7%9e%d7%95%d7%a9%d7%91%d7%95%d7%aa-%d7%91%d7%a7%d7%a8%d7%95%d7%91/
+16,Profit,פרופיט באר טוביה,08-9310999,ניר 4 - אזור התעשייה באר טוביה,profitbtuvia@gmail.com,PQH2+7H Kiryat Malakhi,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-17:00,18:00-23:00,https://www.profitgym.co.il/branch/%d7%91%d7%90%d7%a8-%d7%98%d7%95%d7%91%d7%99%d7%94/
+17,Profit,פרופיט בת-ים,03-6132999,בת-ים רח' החרושת 11,linorprofit@gmail.com,2Q72+PF Bat Yam,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-17:00,09:00-18:00,https://www.profitgym.co.il/branch/%d7%91%d7%aa-%d7%99%d7%9d/
+18,Profit,פרופיט נוף הגליל,04-7790970,קניון 'מול הרים',Profit.nazareth@gmail.com,P839+M6 Nof HaGalil,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-17:00,09:00-18:00,https://www.profitgym.co.il/branch/%d7%a0%d7%a6%d7%a8%d7%aa-%d7%a2%d7%99%d7%9c%d7%99%d7%aa/
+19,Profit,פרופיט פתח תקווה – סגולה,03-5336136,"בן ציון גאליס 57, איזור תעשייה סגולה.",sales1profitgym@gmail.com,4V4P+XM Petah Tikva,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-17:00,09:00-18:00,https://www.profitgym.co.il/branch/%d7%a4%d7%aa%d7%97-%d7%aa%d7%a7%d7%95%d7%95%d7%94/
+20,Profit,פרופיט קריית אונו,03-9112333,קניון קריית אונו,service@profitgym.co.il,3V47+6C Kiryat Ono,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-17:00,09:00-18:00,https://www.profitgym.co.il/branch/%d7%a7%d7%a8%d7%99%d7%99%d7%aa-%d7%90%d7%95%d7%a0%d7%95/
+21,Profit,פרופיט סטודיו + רמת גן,077-9101827,"רחוב הרוא""ה 9",profit.ramatgan@gmail.com,3RM8+JP Ramat Gan,0,0,150,06:00-22:00,06:00-22:00,06:00-22:00,06:00-22:00,06:00-22:00,08:00-14:00,20:30-23:00,https://www.profitgym.co.il/branch/%d7%a8%d7%9e%d7%aa-%d7%92%d7%9f/
+22,Profit,פרופיט אור עקיבא,04-8007700,"קניון אורות, שדרות הנשיא וייצמן 1, קומה 2",orakiva100@gmail.com,GW2G+QR Or Akiva,0,0,150,06:00-22:00,06:00-22:00,06:00-22:00,06:00-22:00,06:00-22:00,06:00-14:00,09:00-16:00,https://www.profitgym.co.il/branch/%d7%90%d7%95%d7%a8-%d7%a2%d7%a7%d7%99%d7%91%d7%90/
+23,Profit,פרופיט יבנה,08-9427484,"הקישון 1, יבנה",profityavne2@gmail.com,VPPM+9Q Yavne,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-16:00,18:00-23:00,https://www.profitgym.co.il/branch/%d7%99%d7%91%d7%a0%d7%94/
+24,Profit,פרופיט עפולה,04-6566560,רחוב ירושלים 4 - עפולה,profitgymafula1@gmail.com,J74R+MG Afula,0,0,150,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-18:00,10:00-23:00,https://www.profitgym.co.il/branch/%d7%a2%d7%a4%d7%95%d7%9c%d7%94/
+25,Profit,פרופיט ירושלים,02-6317777,רחוב האומן 17 קניון לב תלפיות קומה 1,yaniv257@gmail.com,Q625+89 Jerusalem,0,0,150,05:30-23:00,05:30-23:00,05:30-23:00,05:30-23:00,05:30-23:00,05:30-18:00,08:00-23:00,https://www.profitgym.co.il/branch/%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/
+26,Profit,פרופיט ראשל”צ in the city,03-9339000,"רחוב התזמורת 60, נאות אשלים",service@profitgym.co.il,XQ7C+XR Rishon LeTsiyon,0,0,150,06:00-00:00,06:00-00:00,06:00-00:00,06:00-00:00,06:00-00:00,06:30-17:00,19:00-23:00,https://www.profitgym.co.il/branch/%d7%a8%d7%90%d7%a9%d7%9c%d7%a6-%d7%94%d7%aa%d7%96%d7%9e%d7%95%d7%a8%d7%aa/
+27,space,קאנטרי קלאב ספייס רחובות,8979*,"מוטי קינד 10, רחובות",Empty,VQVQ+VQ Rehovot,0,0,250,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=1037&pageId=1189
+28,space,מועדון ספייס פיקס הרצליה,8979*,"הרצליה,  ברחוב סוקלוב 58", kabalaherz@spaceclub.co.il,5R8W+QJ Herzliya,0,0,99,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=29&pageId=1102
+29,space,מועדון ספייס שינקין,8979*, שינקין 47,mtelaviv@spaceclub.co.il,3Q9G+GC Tel Aviv-Yafo,0,0,99,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=17&pageId=1075
+30,space,מועדון ספייס פיקס רחובות,8979*," רחובות,  ברחוב מוטי קינד 10",Reh_Kabala@spaceclub.co.il,VQVQ+VQ Rehovot,0,0,99,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=25&pageId=1094
+31,space,מועדון ספייס פיקס קריית אתא,8979*,"קריית אתא,  ברחוב חנקין 1", mkiryatata@spaceclub.co.il,R474+33 Kiryat Ata,0,0,99,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=21&pageId=1079
+32,space,מועדון ספייס פיקס רמת השרון,8979*,רמת השרון  סוקולוב 90,mramats@spaceclub.co.il,4RXQ+9X Ramat Hasharon,0,0,99,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=33&pageId=58
+33,space,מועדון ספייס פיקס ירקון בתל אביב,8979*,"בתל אביב,  ברחוב הירקון 75",Kabalayar@spaceclub.co.il,3QG8+QR Tel Aviv-Yafo,0,0,99,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=14&pageId=12
+34,space,מועדון ספייס פיקס בת ים,8979*,"בת ים,  ברחוב ניסנבוים 9", mbatyam@spaceclub.co.i,2P4X+WP Bat Yam,0,0,99,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/default.aspx?clubId=1033
+35,space,ספייס פיקס אשקלון,8979*,אשקלון  ברחוב הנשיא 3,mashkelon@spaceclub.co.il,MHF9+76 Ashkelon,0,0,99,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=1033&pageId=1128
+36,space,ספייס חדרה,8979*,"ספייס חדרה,  ברחוב רוטשילד 40 ", mhadera@spaceclub.co.il,CWPC+XH Hadera,0,0,99,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=22&pageId=1082
+37,space,מועדון ספייס פיקס גבעתיים,8979*,בן גוריון 182 גבעתיים,mclub.givatayim@spaceclub.co.il,3RF9+V8 Giv'atayim,0,0,99,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=1035&pageId=1146
+38,space,מועדון ספייס פיקס יגאל אלון,8979*,יגאל אלון 76, Sherutya@spaceclub.co.il,3Q8V+66 Tel Aviv-Yafo,0,0,99,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=15&pageId=1071
+39,space,מועדון ספייס חולון,8979*,הרוקמים 26 מרכז עזריאלי,mholon@spaceclub.co.il,2R52+47 Holon,0,0,189,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=23&pageId=1085
+40,space,מועדון ספייס פיקס הנגב,8979*,קניון המרכזי של בירת הנגב,mnegev@spaceclub.co.il,6QVV+FR Be'er Sheva,0,0,99,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=32&pageId=1058
+41,space,מועדון ספייס כפר סבא,8979*,רפפורט 3 קניון הירוקה,mgsaba@spaceclub.co.il ,5VVR+3J Kefar Sava,0,0,199,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=20&pageId=1057
+42,space,מועדון ספייס פיקס אבן גבירול,8979*,אבן גבירול 62, mclub.tlv-ag@spaceclub.co.il,3QHJ+PJ Tel Aviv-Yafo,0,0,99,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=1034&pageId=1136
+43,space,מועדון ספייס פיקס פלורנטין,8979*,אברבנאל 72, Kabalaflo@spaceclub.co.il,3Q48+6M Tel Aviv-Yafo,0,0,99,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=16&pageId=13
+44,space,מועדון ספייס פיקס ראשונים,8979*,"ראשונים,  ברחוב נים 2 מרכז עזריאלי",rs_manager@spaceclub.co.il,WRX3+R6 Rishon LeTsiyon,0,0,99,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=24&pageId=1089
+45,space,מועדון ספייס גרנד קניון,8979*,גרנד קניון באר שבע, mbeersheva@spaceclub.co.il,7Q2C+4M Be'er Sheva,0,0,179,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.spaceclub.co.il/clubs/clubSubPage.aspx?clubId=27&pageId=1109
+46,lazuz,"מועדון כושר לזוז ראשל""צ מערב",03-529-9932,החלמונית 27‎ ראשון לציון,lazuz.rishon@gmail.com,XQ9M+X8 Rishon LeTsiyon,0,0,100,6:00–23:00,6:00–23:00,6:00–23:00,6:00–23:00,6:00–23:00,6:00–17:00,20:30–23:30,https://lazuzrishonmaarav.business.site/
+47,lazuz,מועדון כושר לזוז ראשון לציון,03-529-9932,יעקב פרימן 20 ראשון לציון,lazuz.rishon@gmail.com,XQ8M+X8 Rishon LeTsiyon,0,0,100,6:00–23:00,6:00–23:00,6:00–23:00,6:00–23:00,6:00–23:00,6:00–17:00,20:30–23:30,https://m.facebook.com/lazuzrishon/
+48,lazuz,מועדון כושר לזוז אשדוד,074-701-9901,מפקורה חוף הקשתות,ashdodlazuz@gmail.com,,0,0,100,6:00–23:00,6:00–23:00,6:00–23:00,6:00–23:00,6:00–23:00,6:00–17:00,20:30–23:30,https://www.facebook.com/lazuzashdod/
+49,8CLUB,8CLUB,054-7378515,"השקד 4 , תל מונד, קדימה צורן",office@freefit.co.il,7W59+3C Tel Mond,0,0,250,"6.30-10:30,
+14.00-22.00","6.30-10:30,
+14.00-22.00","6.30-10:30,
+14.00-22.00","6.30-10:30,
+14.00-22.00","6.30-10:30,
+14.00-22.00",7:30:16:00,X,http://8club.co.il/
+50,AGS,AGS סטודיו לאימונים פונקציונליים,050-7110045,"בשביס זינגר 3, ת""א-יפו",Amit@ultimatetlv.com,4Q7P+F4 Tel Aviv-Yafo,0,0,300,"6.30-10:30,
+14.00-22.00","6.30-10:30,
+14.00-22.00","6.30-10:30,
+14.00-22.00","6.30-10:30,
+14.00-22.00","6.30-10:30,
+14.00-22.00",7:30:16:00,19:30-23:00,https://www.instagram.com/tv/CAAQYEiDHTa/?igshid=5c26qg
+51,B active,B active-קרית שמונה,04-694-9988,"תל חי 93, קרית שמונה",bactive.ks@gmail.com,6HCG+H6 Qiryat Shemona,0,0,,07:00-23:00,07:00-23:00,07:00-23:00,07:00-23:00,07:00-23:00,07:00-14:00,08:00-23:00,https://bactive.co.il/
+52,B-FIT,"B-FIT 
+סטודיו ופילאטיס מכשירים-רחובות",054-2255871,"המנוף 1, רחובות",bfitbyangelika@gmail.com,CWPC+XH Rehovot,0,0,220,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-18:00,08:00-20:00,http://b-fit.co.il/
+53,COLLEGYM,COLLEGYM-נתניה,09-8623692,"רח' האוניברסיטה 1, נתניה",info@collegym.co.il,8W7W+4H Netanya,0,0,160,05:30-22:00,05:30-22:00,05:30-22:00,05:30-22:00,05:30-22:00,06:00-16:00,19:00-23:00,https://collegym.com/
+54,CROSSFIT,CROSSFIT REHOVOT-רחובות,058-5507111,"רח' היצירה 7 , רחובות",croosfit.rehovot@gmail.com,CORC+XH Rehovot,0,0,189,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,http://crossfitrehovot.com/
+55,Extra gym,Extra gym חדר כושר-אלעד,074-7022090,"שמעיה 19, אלעד",extra.gym@gmail.com,2WXW+PJ El'ad,0,0,250,08:00-00:00,08:00-00:00,08:00-00:00,08:00-00:00,08:00-00:00,08:00-14:30,21:30-00:30,http://www.exstragym.co.il
+56,"fitness 
+factory",fitness factory-גני תקווה,03-5359000,הגליל 33 גני תקווה,fitness@gmail.com,3V4G+G7 Ganei Tikva,0,0,169,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-23:00,06:00-18:00, 10:00-22:00,http://www.fitnessfactory.co.il
+,fr,,,,,,0,0,,,,,,,,,
+57,friends,friends-תל אביב,*3163,"דבורה הנביאה 121, תל אביב",friendsfit@gmail.com,3YTJ+PJ Tel Aviv-Yafo,0,0,179,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,http://www.friendsfit.co.il
+58,"holmes
+ place",הולמס פלייס גבעתיים,*9940,"רחוב יצחק רבין 53, קניון גבעתיים",holmes.place@gmail.com,3R85+PW Giv'atayim,0,0,299,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.holmesplace.co.il/club-page-givatayim/
+59,"holmes
+ place",הולמס פלייס מודיעין,*9940,"עמק דותן 48, מודיעין",holmes.place@gmail.com,V2X8+XM Modi'in-Maccabim-Re'ut,0,0,299,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.holmesplace.co.il/club-page-modiin/
+60,"holmes
+ place",גו אקטיב קריית אונו,*9940,דרך רפאל איתן 1 קרית אונו,holmes.place@gmail.com,3V97+47 Kiryat Ono,0,0,299,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.holmesplace.co.il/club-page-kiryat-ono//
+61,"holmes
+ place",הולמס פלייס באר שבע,*9940,"הנרי קנדל 10, מתחת למגדלי הרמב""ם,
+ באר שבע",holmes.place@gmail.com,6QWM+27 Be'er Sheva,0,0,299,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.holmesplace.co.il/club-page-beer-sheva/
+62,"holmes
+ place",הולמס פלייס הרצליה פיתוח,*9940,"רחוב ספיר 1, בית אמפא, 
+הרצליה פיתוח",holmes.place@gmail.com,5R76+QX Herzliya,0,0,299,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.holmesplace.co.il/club-page-herzeliya/
+63,"holmes
+ place",הולמס פלייס רעננה,*9940,"בית המילניום, רח' התדהר 1, רעננה",holmes.place@gmail.com,5VRM+XW Ra'anana,0,0,299,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.holmesplace.co.il/club-page-raanana/
+64,"holmes
+ place",הולמס פלייס עזריאלי,*9940,"קניון עזריאלי, קומה 3. תל אביב",holmes.place@gmail.com,3QFR+JV Tel Aviv-Yafo,0,0,299,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.holmesplace.co.il/club-page-azrieli/
+65,"holmes
+ place",הולמס פלייס קיסריה,*9940,שדרות רוטשילד מרכז קיסריה,holmes.place@gmail.com,GW73+4P Caesarea,0,0,299,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.holmesplace.co.il/club-page-caesarea/
+66,"holmes
+ place",הולמס פלייס פמילי ראש העין,*9940,"שייקה אופיר 5, ראש העין",holmes.place@gmail.com,3XPG+FP Rosh Haayin,0,0,299,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.holmesplace.co.il/club-page-rosh-haayin/
+67,"holmes
+ place",הולמס פלייס שבעת הכוכבים,*9940,"שדרות שבעת הכוכבים 8, הרצליה ",holmes.place@gmail.com,5R8F+2F Herzliya,0,0,299,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.holmesplace.co.il/club-page-7-stars/
+68,"holmes
+ place",גו אקטיב רמת גן,*9940,תרצה 15 מרום נווה רמת גן,holmes.place@gmail.com,3RCH+G7 Ramat Gan,0,0,299,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.holmesplace.co.il/club-page-ramat-gan/
+69,"holmes
+ place",הולמס פלייס פתח תקוה,*9940,"הקניון הגדול, ז'בוטינסקי 72, 
+פתח-תקווה",holmes.place@gmail.com,3VV8+87 Petah Tikva,0,0,299,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.holmesplace.co.il/club-page-petah-tikva/
+70,"holmes
+ place",הולמס פלייס פרימיום ראשון לציון,*9940,"ילדי טהרן 5, מתחם G2, ראשון לציון",holmes.place@gmail.com,XQM9+WQ Rishon LeTsiyon,0,0,299,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,06:00-22:00 ,07:00-17:00,08:00-20:00,https://www.holmesplace.co.il/club-page-rishon_le_zion_premium/
+,,,,,,,,,,,,,,,,,
