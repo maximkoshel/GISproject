@@ -1,4 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+<h1>Google maps</h1>
+<div id="map"></div>
+
+    <script async
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDw7jhbS-Hut7PjowN5u5tJx6SCuGVX_XQ&callback=initMap">
+    </script>
+
+    <script>
+
 let map, infoWindow;
+
+let points = '<%- points%>';
+
+let MarkerArray = JSON.parse(points);
+
+
+
+
 
 function initMap() {
   map = new google.maps.Map(document.getElementById("map"), {
@@ -35,21 +61,22 @@ function initMap() {
     }
   });
 
-  let MarkerArray =
-   [ 
+
+  // let MarkerArray =
+  //  [ 
     
-    {location:{lat: 37.9922, lng: -1.1307}, 
-    imageIcon: "https://img.icons8.com/nolan/2x/marker.png", 
-    content: `<h2>Murcia City</h2>`},
+  //   {location:{lat: 37.9922, lng: -1.1307}, 
+  //   imageIcon: "https://img.icons8.com/nolan/2x/marker.png", 
+  //   content: `<h2>Murcia City</h2>`},
   
-    {location:{lat: 39.4699, lng: -0.3763}},
+  //   {location:{lat: 39.4699, lng: -0.3763}},
   
-    {location:{lat: 38.5411, lng: -0.1225},content: `<h2>Benidorm City</h2>` }
-  
-   ]
+  //   {location:{lat: 38.5411, lng: -0.1225},content: `<h2>Benidorm City</h2>` }
+  //  ]
   
 
       // loop through marker
+      
       for (let i = 0; i < MarkerArray.length; i++){
         addMarker(MarkerArray[i]);
   
@@ -93,6 +120,6 @@ function handleLocationError(browserHasGeolocation, infoWindow, pos) {
   );
   infoWindow.open(map);
 }
-
-
-
+    </script>
+</body>
+</html>

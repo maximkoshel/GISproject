@@ -4,6 +4,12 @@ var session = require('express-session');
 var bodyParser = require('body-parser');
 var path = require('path');
 var app = express();
+var engines = require('consolidate');
+const cons = require('consolidate');
+
+
+app.engine('html', require('ejs').renderFile);
+app.set('view engine', 'html');
 
 var connection = mysql.createConnection({
 	host     : 'localhost',
@@ -37,9 +43,33 @@ app.get('/login', function(request, response) {
 	response.sendFile(path.join(__dirname + '/login.html'));
 });
 
+
+
 app.get('/home', function(request, response) {
+	
 	if (request.session.loggedin) {
-		response.sendFile(path.join(__dirname + '/home.html'));
+		var MarkerArray = [];
+	 var gyms = connection.query('SELECT * FROM gyms');
+	 connection.query('SELECT * FROM gyms', function(error, results, fields) {
+		
+		if (results.length > 0) {
+			for(i=0;i<results.length;i++)
+			{	
+				var oneResult = 
+				{location:{lat:results[i].GeoX,lng:results[i].GeoY},
+				imageIcon: "https://img.icons8.com/nolan/2x/marker.png", 
+				content: `<h2>`+results[i].Name+`</h2>`}
+				MarkerArray.push(oneResult);
+			}
+
+			console.log(MarkerArray[0].content)
+			 response.render('home',{points:JSON.stringify(MarkerArray)});
+		} else {
+			response.send('Something went wrong!');
+		}			
+		response.end();
+	});
+
 	} else {
 		response.send('Please login to view this page!');
 	}
